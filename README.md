@@ -13,7 +13,9 @@ Here your network will be learning about flowers and end up as a command line ap
 ## _This is the final project of Udacity's PyTorch Scholarship Challenge Nanodegree Program_
 # Dataset:
 You can download the dataset used for this project by typing the following commands:
-'''
+
+```
 !wget -c https://s3.amazonaws.com/content.udacity-data.com/courses/nd188/flower_data.zip
 !unzip -qq flower_data.zip;
-'''
+
+```
